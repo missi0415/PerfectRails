@@ -23,3 +23,5 @@ def high_price?
   price >= 5000
 end
 
+end
+
